@@ -1,1 +1,2 @@
-Primeiro arquivo git!
+Primeiro arquivo git.
+sejam bem vindos ao github.
